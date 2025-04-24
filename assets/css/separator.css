@@ -1,0 +1,64 @@
+.page-title-separator {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+  min-height: 100px;
+}
+
+.title-shadow {
+  font-weight: bolder;
+  font-style: normal;
+  position: absolute;
+  color: #000000;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0.1;
+  line-height: 2rem;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.title-main {
+  /* font-family: "PT Serif Caption", serif; */
+  color: #2f3c55;
+
+  font-size: 2.2rem;
+  position: absolute;
+  line-height: 2.5rem;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.nav-link {
+  font-weight: lighter;
+  color: #2f3c55;
+  text-decoration: none;
+  font-size: 1.2rem;
+  transition: all 0.3s ease-in-out;
+}
+
+.divider-wrapper {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  margin: 6rem auto;
+}
+
+@media (max-width: 768px) {
+  .divider {
+    height: fit-content;
+    width: 100%;
+    margin: 3rem auto;
+  }
+  .divider-wrapper img {
+    width: 90%;
+    height: auto;
+    object-fit: cover;
+  }
+}
