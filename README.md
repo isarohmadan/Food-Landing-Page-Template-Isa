@@ -17,5 +17,8 @@ Ambill jakk kek ma siapa ja khe nok
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/nama-project.git
+   git clone https://github.com/<username gw>/< nama project gw tambahin .git>
+
+ini nih contoh yang bener
+https://github.com/isarohmadan/Food-Landing-Page-Template-Isa.git
 
