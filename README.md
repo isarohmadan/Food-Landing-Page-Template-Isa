@@ -1,6 +1,6 @@
 # Nama Project
 
-Ambill jakk kek ma siapa ja khe nok
+Ambill jakk kek ma siapa ja khe nok bilang makasi jangan lupa :) 
 
 ## Fitur
 
