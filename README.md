@@ -1,4 +1,4 @@
-# Nama Project
+# Project web gratis dan A6 buat yang suka masak masak dan jualan makanan
 
 Ambill jakk kek ma siapa ja khe nok bilang makasi jangan lupa :) 
 
