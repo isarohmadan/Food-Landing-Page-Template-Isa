@@ -11,7 +11,7 @@ Ambill jakk kek ma siapa ja khe nok
 
 ## Preview
 
-![Preview Screenshot](https://ibb.co.com/Ng63W3L9)
+![Preview Screenshot] https://i.ibb.co.com/XfZ4F4z7/WIN-20250424-17-24-57-Pro.jpg
 
 ## Teknologi yang Digunakan
 
