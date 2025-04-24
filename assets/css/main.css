@@ -23,7 +23,13 @@ body {
   font-optical-sizing: auto;
   font-style: thin;
   font-weight: 200;
+  max-width: 100vw;
+  overflow-x: hidden;
   color: #2f3c55;
+}
+
+body section {
+  overflow-x: hidden;
 }
 
 .navbar {
@@ -622,6 +628,9 @@ body.loaded #loader-wrapper {
 
 /* Responsive */
 @media (max-width: 768px) {
+  .description {
+    font-size: 0.8rem;
+  }
   .hamburger {
     display: block;
   }

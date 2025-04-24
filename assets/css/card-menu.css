@@ -380,6 +380,19 @@
 }
 
 @media (max-width: 768px) {
+  .about-us-jumbotron-text p {
+    font-size: 0.8rem;
+  }
+  .price {
+    font-size: 0.7rem;
+  }
+  .menu-item-title .item-name {
+    font-size: 0.7rem;
+  }
+  .description-menu-item {
+    font-size: 0.6rem;
+  }
+
   .card-content p {
     text-align: left;
     margin: 0.2rem 0;
@@ -440,6 +453,9 @@
   }
   .about-us-jumbotron-text {
     text-align: left;
+  }
+  .testimonial-text {
+    text-align: center;
   }
 }
 
