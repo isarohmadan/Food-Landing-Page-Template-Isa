@@ -37,7 +37,7 @@ Ambill jakk kek ma siapa ja khe nok
 
 ## Preview
 
-<img src="https://i.ibb.co.com/XfZ4F4z7/WIN-20250424-17-24-57-Pro.jpg" alt="WIN-20250424-17-24-57-Pro" border="0" />
+<img src="https://i.ibb.co.com/XfZ4F4z7/WIN-20250424-17-24-57-Pro.jpg" width="400" height="400" alt="WIN-20250424-17-24-57-Pro" border="0" />
 
 ## Teknologi yang Digunakan
 
