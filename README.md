@@ -1,24 +1,22 @@
-# Project web gratis dan A6 buat yang suka masak masak dan jualan makanan
+# 🍽️ Dishlish – Modern Food Landing Page
 
-Ambill jakk kek ma siapa ja khe nok bilang makasi jangan lupa :) 
+**Role:** Frontend Developer  
+**Tech Stack:** HTML, CSS, JavaScript, SwiperJS, Lucide Icons  
 
-## Fitur
+## Overview  
+Dishlish is a visually appealing and responsive landing page designed for food businesses aiming to increase their online presence and customer engagement. The website features a clean, modern layout with intuitive navigation and strong visual hierarchy to help guide user actions.
 
-- Desain responsif tapi tidak frenli wkwkw
-- Navigasi interaktif
-- Struktur HTML yang bersih dan terorganisir tapi hidupku ga teratur
-- Animasi ringan hidupku dimasa lampau
+## Key Features
 
-## Preview
+- **Responsive Design:** Fully optimized for mobile, tablet, and desktop devices.
+- **Engaging Hero Section:** Eye-catching headline and call-to-action button to capture user interest immediately.
+- **Interactive Menu Slider:** Implemented with SwiperJS to showcase featured dishes with smooth transition effects.
+- **Sticky Navigation Bar:** Easy access to different sections of the page, improving user experience.
+- **Modern Icons:** Utilized Lucide Icons for a consistent and modern visual language.
+- **Smooth Scrolling:** Enhances navigation with seamless section transitions.
 
-<img src="https://i.ibb.co.com/XfZ4F4z7/WIN-20250424-17-24-57-Pro.jpg" width="400" alt="WIN-20250424-17-24-57-Pro" border="0" />
+## Purpose  
+This project demonstrates my ability to create user-centered, aesthetically pleasing web pages with modern frontend tools and libraries. It showcases my strengths in layout design, animation integration, and responsive development.
 
-## Cara Menjalankan
-
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/<username gw>/< nama project gw tambahin .git>
-
-ini nih contoh yang bener
-https://github.com/isarohmadan/Food-Landing-Page-Template-Isa.git
-
+## Live Preview  
+[🔗 View Live Site](https://food-landing-page-template-isa.vercel.app/)
